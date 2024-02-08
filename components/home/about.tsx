@@ -77,9 +77,7 @@ const AboutSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I take responsibility to craft a good user experience using modern
-        frontend architecture.
-      </span>
+As a Shopify developer, I work with brands from all over the globe. I am dedicated to continuously learning and improving my skills. I specialize in frontend development and have a strong proficiency in Liquid.      </span>
     </h1>
   );
 
