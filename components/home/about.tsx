@@ -69,8 +69,7 @@ const AboutSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I am a passionate UI Engineer who bridges the gap between development
-        and design.{" "}
+     Shopify plus developer good experience , seek new opprtunity . support expert for your brand you have to focus on the business , i will handle the shopify :)
       </span>
       <span
         className={`about-2 leading-tight ${
